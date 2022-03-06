@@ -1,1 +1,13 @@
+Scubrain.json,008_Scubrain.png
+Barrellax.json,009_Barrellax.png
+Cerebrinna.json,010_Cerebrinna.png
+pylit.json,005_Pylit.png
+vulturch.json,006_Vulturch.png
+catharson.json,007_Catharson.png
+endurion.json,001_Endurion.png
+worthai.json,002_Worthai.png
+utrikhao.json,003_Utrikhao.png
+Tunett-Punk.json,049_tunett_punk_1.png
+Tunett-Pop.json,051_tunett_pop_1.png
+Tunett-Classical.json,050_tunett_classical_1.png
 toxcandybug2.json,toxcandybug2.gif
